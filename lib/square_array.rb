@@ -6,5 +6,5 @@ def square_array(array)
   #end
   array.each { |nums| nums**}
   
-  
+  end
 end
