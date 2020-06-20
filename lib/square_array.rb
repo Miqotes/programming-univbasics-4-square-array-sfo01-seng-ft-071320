@@ -4,7 +4,7 @@ def square_array(array)
   #puts array.sqrt[counter]
   #counter += 1
   #end
-  array.each { |nums| nums**}
+  array.each { |nums| nums}
   
-  end
+  
 end
